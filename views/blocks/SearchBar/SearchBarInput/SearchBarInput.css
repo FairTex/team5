@@ -4,6 +4,7 @@
     flex-direction: row;
     border: 1px solid #aaa;
     border-radius: 3px;
+    width: calc(66.66% - 10px);
 }
 
 .searchbar__input

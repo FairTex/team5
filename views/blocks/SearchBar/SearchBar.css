@@ -1,6 +1,5 @@
 .searchbar
 {
-    width: calc(66.66% - 10px);
     margin: 5px;
     transition: width 0.5s ease;
 }
